@@ -11,7 +11,7 @@ userData.highestAcademicQualification = prompt('Enter your highest academic qual
 
 let ageClassification = '';
 
-const age = prompt('Enter your age');
+const age = prompt('Enter your age Mr Man');
 
 if (age > 0 && age <= 7) {
   ageClassification = 'Toddler';
